@@ -1,0 +1,103 @@
+*{
+    margin: 0; padding: 0; 
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yazi{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    background-color: rgb(56, 163, 163);
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+}
+.container .turuncu{
+    background-color: aqua;
+    width: 27%;
+    height: 650px;
+    padding: 20px;
+}
+.container .pembe{
+    
+    background-color: aquamarine;
+    width: 77%;
+    height: 650px;
+    margin-left: 10px;
+}
+.yazii h2 {
+    margin-left: 30px;
+    
+}
+.yazii p {
+    margin-left: 30px;
+}
+.yazii h3 {
+    margin-left: 30px;
+}
+
+.idk img{width: 100%;}
+.idk{
+    margin-left: 30px;
+    background-color: gray;
+    width: 20vw;
+    height: 20vh;
+    overflow: hidden;
+}
+.idkk{
+    margin-left: 30px;
+    background-color: gray;
+    width: 20vw;
+    height: 6vh;
+}
+.idkkk{
+    margin-left: 30px;
+    background-color: gray;
+    width: 20vw;
+    height: 6vh;
+}
+.idkkkk{
+    margin-left: 30px;
+    background-color: gray;
+    width: 20vw;
+    height: 6vh;
+    overflow: hidden;
+}
+.odk{
+    margin-left: 20px;
+    background-color: gray;
+    width: 74.5vw;
+    height: 20vh;
+}
+.odkk{
+    margin-left: 20px;
+    background-color: gray;
+    width: 74.5vw;
+    height: 20vh;
+}
+.pembe h2{
+    margin-left: 20px;
+}
+.pembe p{
+    margin-left: 20px;
+}
+.abi{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    flex-direction: column;
+}
+
+

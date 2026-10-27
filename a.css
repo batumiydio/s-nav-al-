@@ -1,0 +1,23 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex; justify-content: space-between;
+    
+}
+.a{background-color: cornflowerblue;
+    width: 20%; height: 200px;
+    transition: 1s;
+}
+.b{background-color: cadetblue;
+    width: 20%;  height: 200px;
+    transition: 1s;
+}
+.c{background-color: aquamarine;
+     width: 20%; height: 200px;
+     transition: 1s;
+}
+

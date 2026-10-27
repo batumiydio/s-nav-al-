@@ -1,0 +1,122 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    width: 80%; margin: auto; 
+    font-size: 5vh;
+}
+.head h1 span{
+    color: red;
+}
+body{
+    background-color: gray;
+
+}
+.container{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+        
+}
+.a{
+    width: 22%;
+    display: flex; flex-direction: column;
+    justify-content: space-between;
+    
+
+}
+.b{
+    width: 22%;
+
+}
+.c{
+    width: 22%;
+
+}
+.d{
+    width: 22%;
+
+}
+.a .k2 img{width: 100%;}
+
+.a .k1 a{text-decoration: none; color: chartreuse;
+    font-size: 2vw;
+}
+
+.a .k1{
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    height: 20vh;
+}
+.b .b1 img{width: 100%;}
+
+.b .b2{
+    background-color: rgb(214, 226, 43);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+}
+.b{
+    width: 22%;
+    display: flex; flex-direction: column;
+    justify-content: space-between;
+    
+}
+.b .b2 a{text-decoration: none; color: crimson;
+    font-size: 2vw;
+}
+.c .c1{
+    background-color: rgb(4, 0, 253);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+}
+.c .c2 img{width: 100%;}
+.c .c1 a{text-decoration: none; color: cadetblue;
+    font-size: 2vw;
+
+}
+.c{
+    width: 22%;
+    display: flex; flex-direction: column;
+    justify-content: space-between;
+    
+}
+.d{
+    width: 22%;
+    display: flex; flex-direction: column;
+    justify-content: space-between;
+}
+.d .d1 img{width: 100%;}
+.d .d2 {
+    background-color: rgb(255, 0, 43);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+}
+.d .d3{
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+}
+.d .d2 a{text-decoration: none; color: cadetblue;
+    font-size: 2vw;
+}
+.d .d3 a{
+    text-decoration: none; color: rgb(115, 255, 0);
+    font-size: 2vw;
+}
+
+
+    

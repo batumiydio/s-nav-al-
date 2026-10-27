@@ -1,0 +1,71 @@
+.h1{
+    background-color: rgb(255, 0, 0);
+    border: 1px solid rgb(12, 12, 12);
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+
+.n1{
+    background-color: rgb(255, 0, 0);
+    border: 1px solid rgb(12, 12, 12);
+    height: 30px; color: black;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold; margin-top: 10px;
+}
+
+.s1{
+    
+    background-color: rgb(255, 0, 0);
+    border: 1px solid rgb(12, 12, 12);
+    height: 170px; color: black;
+    text-align: center;
+    padding: 20px; padding-bottom: 35px;
+    font-weight: bold; margin-top: 10px;
+    
+}
+.kapsa{
+    margin-top: 10px;
+}
+
+.k1{
+    width: 30%; height: 150px;
+    background-color: rgb(236, 60, 95); float: left;
+    border-radius: 10px;
+
+    
+}
+.k2{
+    width: 30%; height: 150px;
+    background-color: rgb(55, 0, 255); float: left;
+    margin-left: 5%;  margin-right: 5%;
+    border-radius: 10px;
+
+}
+
+.k3{
+    width: 30%; height: 150px;
+    background-color: blueviolet; float: left;
+    border-radius: 10px;
+    
+}
+.temizle{clear: both;}
+.aa11{
+    margin-top: 10px;
+    height: 50px;
+    border: 1px solid rgb(12, 12, 12);
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.boss{
+    
+    background-color: rgb(255, 0, 0);
+    border: 1px solid rgb(12, 12, 12);
+    height: 30px; color: black;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold; margin-top: 10px;
+}
